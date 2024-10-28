@@ -1,0 +1,67 @@
+
+h1 {
+    text-align: center;
+    color: #4a4a4a;
+  }
+  
+  h3{
+    color: #0056b3;
+    padding: 20px 0px 0px 0px;
+  }
+  input[type="text"], textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .json-display, .output {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    overflow-x: auto; 
+  }
+  
+  pre {
+    white-space: pre-wrap; 
+    word-wrap: break-word; 
+    margin: 0;
+  }
+  
+  .error {
+    color: red;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  select {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  h2 {
+    margin-top: 20px;
+    color: #4a4a4a;
+  }
+  
